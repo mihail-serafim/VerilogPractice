@@ -1,0 +1,8 @@
+/db
+/output_files
+/incremental_db
+
+*.txt
+*.bdf
+*.bak
+*.qws
