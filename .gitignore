@@ -26,6 +26,7 @@
 *example*
 *sopc_*
 # *.sdc # I want those timing files
+Lab1-4a/c5_pin_model_dump.txt
 
 # ignore Quartus II generated folders
 */db/
@@ -36,5 +37,5 @@
 */*_sim/
 incremental_db/
 db/
-_output_files/
+*/output_files/
 PLLJ_PLLSPE_INFO.txt
